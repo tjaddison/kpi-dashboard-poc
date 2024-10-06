@@ -2,6 +2,10 @@
 
 This is a comprehensive business KPI dashboard built with Next.js, React, and Tailwind CSS.
 
+## Live Demo
+
+Check out the working demo of this dashboard at: [https://kpi-dashboard-poc.vercel.app](https://kpi-dashboard-poc.vercel.app)
+
 ## Getting Started
 
 First, install the dependencies:
@@ -41,7 +45,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Tailwind CSS
 - shadcn/ui components
 - Recharts for data visualization
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
